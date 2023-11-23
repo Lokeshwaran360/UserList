@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lokeshwaran360/Simple_react_project/static/css/main.3765f0da.css",
+    "main.js": "/Lokeshwaran360/Simple_react_project/static/js/main.28beccdc.js",
+    "static/js/787.32d91862.chunk.js": "/Lokeshwaran360/Simple_react_project/static/js/787.32d91862.chunk.js",
+    "index.html": "/Lokeshwaran360/Simple_react_project/index.html",
+    "main.3765f0da.css.map": "/Lokeshwaran360/Simple_react_project/static/css/main.3765f0da.css.map",
+    "main.28beccdc.js.map": "/Lokeshwaran360/Simple_react_project/static/js/main.28beccdc.js.map",
+    "787.32d91862.chunk.js.map": "/Lokeshwaran360/Simple_react_project/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3765f0da.css",
+    "static/js/main.28beccdc.js"
+  ]
+}
